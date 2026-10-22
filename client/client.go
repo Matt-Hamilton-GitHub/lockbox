@@ -1,7 +1,5 @@
 package client
 
-// CS 161 Project 2
-
 // Only the following imports are allowed! ANY additional imports
 // may break the autograder!
 // - bytes
@@ -9,7 +7,6 @@ package client
 // - encoding/json
 // - errors
 // - fmt
-// - github.com/cs161-staff/project2-userlib
 // - github.com/google/uuid
 // - strconv
 // - strings
